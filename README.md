@@ -17,4 +17,4 @@ Note: You may be confused that after opening the main scene you can't see anythi
 
 ## screenshot
 
-![Screenshot](https://github.com/dzduniak/Snake-Unity/raw/master/Screenshot.png)
+![Screenshot](https://github.com/DoniyorbeKomiloV/Snake_Game_Unity/blob/master/Screenshot.png)
