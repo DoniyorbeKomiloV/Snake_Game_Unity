@@ -1,19 +1,73 @@
-# snake-unity
-Snake game created using Unity engine.
+# Snake Game (2D) 🎮
 
-## how to open project in unity
+## Overview
+**Project Type:** Classic 2D Snake Game  
+**Team:** Interstellar (5 Members)  
+**Development Tool:** Unity & C#  
+**Duration:** 2 Weeks  
 
-First you have to install Unity engine (try installing the newest version), remember to also install Android (or iOS) module.
-Then clone (or download) the repository.
-Open the project in Unity (start Unity -> click open -> select the repository directory).
+The Snake game is a grid-based 2D arcade-style game. The player controls a snake that grows longer as it consumes food, avoiding collisions with its own body and the screen's edges. The goal is to achieve the highest possible score.
 
-After opening the project, open the main scene: using Unity's asset browser navigate to the "Scenes" directory and double click "Main" scene.
+---
 
-Now you have to switch platform to Android (or iOS): open File menu -> click Build Settings... -> Select Android (or iOS) -> click Switch Platform.
+## Features
+- **Smooth Movement:** Snake responds fluidly to keyboard inputs.
+- **Dynamic Gameplay:** Random food spawning, snake growth, and increasing difficulty.
+- **Score System:** Real-time score updates for each food consumed.
+- **UI/UX:** Intuitive game-over screens and score display.
+- **Audio:** Background music and sound effects for an immersive experience.
 
-You can start the game by clicking play button. After starting the game in player you should change aspect ratio to portrait orientation.
+---
 
-Note: You may be confused that after opening the main scene you can't see anything in the editor - you have to zoom out (use mouse scroll wheel to zoom out).
+## Technical Details
+- **Platform:** Windows PC (Future potential for Web and Mobile).
+- **Game Engine:** Unity 2D with C# scripting.
+- **Assets:** Pixel art created with Adobe Photoshop.
+- **Controls:**
+  - **PC:** Arrow keys or `WASD` for movement; Spacebar to pause.
+- **Collision Detection:** Utilized Unity's colliders for game-over and food interaction logic.
+
+---
+
+## Development Timeline
+- **Week 1:**
+  - Project planning and task assignments.
+  - Environment design.
+  - Implementation of snake movement and boundary restrictions.
+  - Food spawning logic and snake growth mechanics.
+- **Week 2:**
+  - UI and audio integration.
+  - Debugging, optimization, and final polishing.
+  - Final presentation and submission.
+
+---
+
+## How to Play
+1. Launch the game on your PC.
+2. Use arrow keys or `WASD` to control the snake.
+3. Consume food to grow and increase your score.
+4. Avoid colliding with the edges or your own body.
+5. Try to achieve the highest score possible!
+
+---
+
+## Future Enhancements
+- **AI-Driven Challenges:** Enemy snakes or dynamic obstacles.
+- **Level Progression:** Faster speeds and new visual themes for higher levels.
+- **Power-Ups:** Shields, speed boosts, and score multipliers.
+- **Multiplayer:** Local and online gameplay modes.
+- **Mobile Version:** Responsive design with touch controls.
+
+---
+
+## Team
+- Adil Raziev  
+- Doniyorbek Komilov  
+- Muhammad Najimov  
+- G’anisher Boboyorov  
+- Zokhidabonu Alisherova  
+
+---
 
 ## screenshot
 
